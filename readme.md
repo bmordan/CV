@@ -1,8 +1,9 @@
 ![Bernard Mordan Junior Developer](https://pbs.twimg.com/media/B4mkAfzCYAAqniE.png)
+
 |Flickynotes|Chitter|
-|:-----------|:-----------|
+|:----------|:-----------|
 |Javascript (meteor)|Ruby|
-|Our final project. A Meteor app for mobiles and the web. Visit the site http://flickynotes.meteor.com or repo https://github.com/bmordan/flickynotes. Tested with Jasmine in the Velocity environment|A micro blogging site. Designed for mobile first. Visit the site [http://chitter.com](http://nameless-brushlands-9997.herokuapp.com/peeps/home) or repo https://github.com/bmordan/chitter. Tested with Rspec and Capybara|
+|Our final project. A Meteor app for mobiles and the web. Visit the site http://flickynotes.meteor.com or repo https://github.com/bmordan/flickynotes. Tested with Jasmine in the Velocity environment. |A micro blogging site. Designed for mobile first. Visit the site [http://chitter.com](http://nameless-brushlands-9997.herokuapp.com/peeps/home) or repo https://github.com/bmordan/chitter. Tested with Rspec and Capybara|
 
 |Bowling|Lecture Voter|
 |:-------|:-------|
