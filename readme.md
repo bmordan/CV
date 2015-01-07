@@ -1,4 +1,4 @@
-![Bernard Mordan Junior Developer](http://github.com/bmordan/CV/src/cv_heroimage.png)
+![Bernard Mordan Junior Developer](http://github.com/bmordan/CV/blob/master/src/cv_heroimage.png)
 
 |Rock Paper Sissors|Battleships|
 |:----------|:-----------|
