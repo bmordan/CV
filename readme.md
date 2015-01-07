@@ -1,4 +1,9 @@
-![Bernard Mordan Junior Developer](https://pbs.twimg.com/media/B4mkAfzCYAAqniE.png)
+![Bernard Mordan Junior Developer](http://github.com/bmordan/CV/src/cv_heroimage.png)
+
+|Rock Paper Sissors|Battleships|
+|:----------|:-----------|
+|Ruby (logic)|Ruby (backend)|
+|Rock Paper Scissors was a weekend challange, a fun simple game with a little bit of logic on the backend. [Click here to Play the game online](http://lit-lake-3802.herokuapp.com/) the styling is targeted at phones so looks a bit daft on the desktop. [Click here to look at the code](https://github.com/bmordan/rock_paper_scissors)|Battleships was a week long group exercise. This was my first experience of working on a code base in a team of four. I would highlight one part of the code that I wrote with Victoria to place battle ships on a board before a game. [Click here to see the code](https://github.com/bmordan/battleships/tree/master/lib/modules)|
 
 |Flickynotes|Chitter|
 |:----------|:-----------|
