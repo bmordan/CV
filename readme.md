@@ -14,7 +14,7 @@ Operation Infinity is the final resting place of the work of [Simon Vincenzi](ht
 
 |Flickynotes|Lecture Voter|
 |:----------|:-----------|
-|Javascript (meteor)|Ruby|
+|Javascript (meteor)|Javascript (node)|
 Our final project at Makers Academy *(September 2014 cohort)*. A Meteor app for mobiles and the web. Here is a demo [video](https://youtu.be/qpGh8sWWuV0) here is the [repo](https://github.com/bmordan/flickynotes). Tested with Jasmine in the Velocity environment. |Lecture Voter was the result of our 3 day Makerthon. Visit the site https://lecture-voter.herokuapp.com/ and repo [github://lecture-voter](https://github.com/bmordan/lecture-voter) This uses Socket.io in an express app. Tested with Mocha and Zombie.
 
 ##tl;dr
