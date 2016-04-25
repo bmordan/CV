@@ -1,35 +1,43 @@
-![Bernard Mordan Junior Developer](src/cv_heroimage.png)
+![Bernard Mordan Junior Developer](https://cloud.githubusercontent.com/assets/4499581/14797285/e85e3b84-0b29-11e6-8877-df114506199a.png)
 
-|Rock Paper Sissors|Battleships|
-|:----------|:-----------|
-|Ruby (logic)|Ruby (backend)|
-|Rock Paper Scissors was a weekend challange, a fun simple game with a little bit of logic on the backend. [Click here to Play the game online](http://lit-lake-3802.herokuapp.com/) the styling is targeted at phones so looks a bit daft on the desktop. [Click here to look at the code](https://github.com/bmordan/rock_paper_scissors)|Battleships was a week long group exercise. This was my first experience of working on a code base in a team of four. I would highlight one part of the code that I wrote with Victoria to place battle ships on a board before a game. [Click here to see the code](https://github.com/bmordan/battleships/tree/master/lib/modules)|
+## Projects from TABLEFLIP
 
-|Flickynotes|Chitter|
+|[Kitmapper](https://kitmapper.com)|[Marmalade Productions](http://tableflip.github.io/marmalade-productions)|
+|:--------|:---------|
+Kitmapper is an example of a site we built for a startup. It is a fully featured site with auth that uses JWTs, payment with Stripe, a hand rolled chat solution using RethinkDB, unit tests, and even intergration tests with Nightwatch js.|Marmalade Productions site is a static site with some nice carousels and widgets
+
+|[Operation Infinity](http://operationinfinity.org)|[Carabao](http://tableflip.github.io/carabao)|
+|:--------------|:-------------|
+Operation Infinity is the final resting place of the work of [Simon Vincenzi](http://www.artsadmin.co.uk/artists/simon-vincenzi). A truly radical site with randomised routing, and hours of video.|Fully responsive commercial site, delivered in 5 days to the client design spec.
+
+## Projects from Makers Academy
+
+|Flickynotes|Lecture Voter|
 |:----------|:-----------|
 |Javascript (meteor)|Ruby|
-|Our final project. A Meteor app for mobiles and the web. Visit the site http://flickynotes.meteor.com or repo https://github.com/bmordan/flickynotes. Tested with Jasmine in the Velocity environment. |A micro blogging site. Designed for mobile first. Visit the site [http://chitter.com](http://nameless-brushlands-9997.herokuapp.com/peeps/home) or repo https://github.com/bmordan/chitter. Tested with Rspec and Capybara|
-
-|Bowling|Lecture Voter|
-|:-------|:-------|
-|Coffeescript|Javascript (express)|
-|Basic logic to score a game of 10 pin bowling. View the code [github://bowling](https://github.com/bmordan/bowling_with_coffeescript) Tested with Mocha, I wrote my own Cakefile to compile the coffee script to a handy .js file.|Lecture Voter was the result of our 3 day Makerthon. Visit the site https://lecture-voter.herokuapp.com/ and repo [github://lecture-voter](https://github.com/bmordan/lecture-voter) This uses Socket.io in an express app. Tested with Mocha and Zombie.|
+Our final project at Makers Academy *(September 2014 cohort)*. A Meteor app for mobiles and the web. Here is a demo [video](https://youtu.be/qpGh8sWWuV0) here is the [repo](https://github.com/bmordan/flickynotes). Tested with Jasmine in the Velocity environment. |Lecture Voter was the result of our 3 day Makerthon. Visit the site https://lecture-voter.herokuapp.com/ and repo [github://lecture-voter](https://github.com/bmordan/lecture-voter) This uses Socket.io in an express app. Tested with Mocha and Zombie.
 
 ##tl;dr
 
-I have good ideas. I can work well in a team. I want to learn more. I am a craftsman.
+I have good ideas. I can work well in a team. I want to learn more. I graft.
 
 ##Computers and that
 
-I have always loved computers. I was a slow reader, but when my parents bought me a Sinclair ZX Spectrum for my 7th Christmas, I started to read. I remember the light orange book entitled 'Basic Programming', I programmed geometric shapes, basic user auth and played lots of games!
+I have always loved computers. I was a slow reader, but when my parents bought me a Sinclair ZX Spectrum for my 7th Christmas, I started to read. I remember the light orange book entitled 'Basic Programming', I programatically drew geometric shapes, basic user auth and played lots of games!
 
-At Dartington in the higher close library we were introduced to a scanner! and this thing called 'Netscape' through which one could access pages from the world wide web...
+At Dartington College of Arts when I was doing my Degree in Theatre and Arts Management (1995) one day, in the library, we were introduced to Adobe Photoshop, a scanner, and this thing called 'Netscape' through which one could access pages from the world wide web...
 
-In Ireland I built a website that served 5 remote students studying our weekend class in Dublin. This was all over dialup, I made 45min audio recordings and managed to save them as 2MB files (using real player).
+In Ireland (2001) I built a website for remote students studying our weekend class in Dublin. This was achieved over dialup, I made 45min audio recordings and managed to save them as 2MB files (using real player).
 
 I supported my 2 years at Kagyu Samye Dzong with a series of freelance video projects built in Final Cut Express and Flash.
 
-##My Past
+I started to writing code during my time in Evelina Children's hospital school. I learnt SQL and PHP with the Headteacher and the school business manager we worked to extend the way the school used it's data. I enjoyed it so much I wanted to learn to code for a living.
+
+##Previous Experiences
+
+2015 - 2016
+
+I was the Junior Developer at [TABLEFLIP](https://tableflip.io) working in a team of four delivering sites for start ups, small businesses and individuals. All my code at TABLEFLIP was reviewed by the two senior developers, and I have been well schooled in good practice. We worked in an agile way with clients organising our work into 5 day sprints.
 
 2008 - 2014
 I was the IT manager of a small hospital school in central London. I looked after a small network of windows computers, taught computing three times a week to sick children aged between 5 and 16. It was during quiet afternoons on reception that I started to learn how to code.
