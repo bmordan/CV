@@ -1,5 +1,6 @@
 ![Bernard Mordan Junior Developer](https://cloud.githubusercontent.com/assets/4499581/14797285/e85e3b84-0b29-11e6-8877-df114506199a.png)
 
+<<<<<<< HEAD
 ## Projects from TABLEFLIP
 
 |[Kitmapper](https://kitmapper.com)|[Marmalade Productions](http://tableflip.github.io/marmalade-productions)|
@@ -11,6 +12,12 @@ Kitmapper is an example of a site we built for a startup. It is a fully featured
 Operation Infinity is the final resting place of the work of [Simon Vincenzi](http://www.artsadmin.co.uk/artists/simon-vincenzi). A truly radical site with randomised routing, and hours of video.|Fully responsive commercial site, delivered in 5 days to the client design spec.
 
 ## Projects from Makers Academy
+=======
+|Rock Paper Sissors|Battleships|
+|:----------|:-----------|
+|Ruby (logic)|Ruby (backend)|
+|Rock Paper Scissors was a weekend challenge, a fun simple game with a little bit of logic on the backend. [Click here to Play the game online](http://lit-lake-3802.herokuapp.com/) the styling is targeted at phones so looks a bit daft on the desktop. [Click here to look at the code](https://github.com/bmordan/rock_paper_scissors)|Battleships was a week long group exercise. This was my first experience of working on a code base in a team of four. I would highlight one part of the code that I wrote with Victoria to place battle ships on a board before a game. [Click here to see the code](https://github.com/bmordan/battleships/tree/master/lib/modules)|
+>>>>>>> 6bf9ddca79a8ce5a1190ce9ecb7e48c63d9824fc
 
 |Flickynotes|Lecture Voter|
 |:----------|:-----------|
