@@ -23,21 +23,25 @@ I have good ideas. I can work well in a team. I want to learn more. I graft.
 
 ##Computers and that
 
-I have always loved computers. I was a slow reader, but when my parents bought me a Sinclair ZX Spectrum for my 7th Christmas, I started to read. I remember the light orange book entitled 'Basic Programming', I programatically drew geometric shapes, basic user auth and played lots of games!
+I have always loved computers. I was a slow reader, but when my parents bought me a Sinclair ZX Spectrum for my 7th Christmas, I started to read. I remember the light orange book entitled 'Basic Programming', I programatically drew geometric shapes, basic user auth and programmed a speech unit.
 
 At Dartington College of Arts when I was doing my Degree in Theatre and Arts Management (1995) one day, in the library, we were introduced to Adobe Photoshop, a scanner, and this thing called 'Netscape' through which one could access pages from the world wide web...
 
-In Ireland (2001) I built a website for remote students studying our weekend class in Dublin. This was achieved over dialup, I made 45min audio recordings and managed to save them as 2MB files (using real player).
+In Ireland (2001) I built a website for remote students studying our weekend class in Dublin. This was achieved over dialup, I made 45min audio recordings and managed to save them as sub 2MB files (using real player).
 
 I supported my 2 years at Kagyu Samye Dzong with a series of freelance video projects built in Final Cut Express and Flash.
 
-I started to writing code during my time in Evelina Children's hospital school. I learnt SQL and PHP with the Headteacher and the school business manager we worked to extend the way the school used it's data. I enjoyed it so much I wanted to learn to code for a living.
+I started to writing code during my time in Evelina Children's hospital school. I learnt SQL and PHP. With the Headteacher and the school business manager I worked to extend the way the school used it's data. I enjoyed it so much I wanted to learn to code for a living.
 
 ##Previous Experiences
 
 2015 - 2016
 
 I was the Junior Developer at [TABLEFLIP](https://tableflip.io) working in a team of four delivering sites for start ups, small businesses and individuals. All my code at TABLEFLIP was reviewed by the two senior developers, and I have been well schooled in good practice. We worked in an agile way with clients organising our work into 5 day sprints.
+
+Autumn 2014
+
+I completed the [Makers Academy](http://www.makersacademy.com/) 12 week course. I was introduced to test driven development, Ruby, Javascript, HTML5, worked with APIs and much more. In Makers Academy we paired everyday, worked in teams and had to complete weekend coding challanges. It is a fantastic course which I highly recomend.
 
 2008 - 2014
 I was the IT manager of a small hospital school in central London. I looked after a small network of windows computers, taught computing three times a week to sick children aged between 5 and 16. It was during quiet afternoons on reception that I started to learn how to code.
