@@ -23,9 +23,9 @@ I worked with the director of the Christan Muslim Forum to redesign and rebuild 
 
 I was the Junior Developer at [TABLEFLIP](https://tableflip.io) working in a team of four delivering sites for start ups, small businesses and individuals. All my code at TABLEFLIP was reviewed by the two senior developers, and I have been well schooled in good practice. We worked in an agile way with clients organising our work into 5 day sprints.
 
-[Kitmapper](https://kitmapper.com)
-[Marmalade Productions](http://tableflip.github.io/marmalade-productions)
-[Operation Infinity](http://operationinfinity.org)
+* [Kitmapper](https://kitmapper.com)
+* [Marmalade Productions](http://tableflip.github.io/marmalade-productions)
+* [Operation Infinity](http://operationinfinity.org)
 
 Autumn 2014
 
