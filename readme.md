@@ -9,17 +9,17 @@ I have years of experience writing commercial software for the web. I lean towar
 
 ## Previous Experiences
 
-2017 - *
+2018 - *
 
 Nodejs developer in the Home Office. Working on a internal tool providing search capability and visulisation over massive data (5.1 billion data points). I work as a full stack developer extending the backend API ,with test coverage, but mainly focused on the frontend, porting an Angular 1.5 app to use redux in preparation for a rebuild in React.
 
-2016 - 2017
+2017 - 2018
 
 While waiting for security clearance to start work at the home office I created an online course [https://www.udemy.com/functional-programming-with-ramda](https://www.udemy.com/functional-programming-with-ramda/learn/v4/overview) introducing developers to functional programming concepts in javascript.
 
 I worked with the director of the Christan Muslim Forum to redesign and rebuild their website in Elm. [http://christianmuslimforum.net](http://christianmuslimforum.net).
 
-2015 - 2016
+2015 - 2017
 
 I was the Junior Developer at [TABLEFLIP](https://tableflip.io) working in a team of four delivering sites for start ups, small businesses and individuals. All my code at TABLEFLIP was reviewed by the two senior developers, and I have been well schooled in good practice. We worked in an agile way with clients organising our work into 5 day sprints.
 
