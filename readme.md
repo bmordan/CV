@@ -9,7 +9,7 @@ I have 5 years of experience writing commercial software for the web. I lean tow
 
 ## Origin Story
 
-**Winter 2018 - ...**
+**Feb 2018 - now**
 
 Now I am a javascript developer in the Home Office. Working on an internal tool providing search capability and visualization over a massive dataset (2.3 billion nodes, 2.7 billion edges). I have been working as full stack developer extending the backend API (nodejs, elasticsearch, neo4j) maintaining the frontend, porting an Angular 1.5 app to use redux in preparation for a rebuild in React. Taking the queries and python code of the data scientists on our team and rendering their algorithms in javascript ready for production.
 
