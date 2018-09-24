@@ -5,7 +5,7 @@
 
 ## tl;dr
 
-I have 5 years of experience writing commercial software for the web. I lean toward a functional style of programming. Checkout my origin story below.
+I have 4 years of experience writing commercial software for the web. I lean toward a functional style of programming. Checkout my origin story below.
 
 ## Origin Story
 
