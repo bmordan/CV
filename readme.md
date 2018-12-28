@@ -11,19 +11,19 @@ I have 4 years of experience writing commercial software for the web. I lean tow
 
 **Feb 2018 - now**
 
-Now I am a javascript developer in the Home Office. Working on an internal tool providing search capability and visualization over a massive dataset (2.3 billion nodes, 2.7 billion edges). I have been working as full stack developer extending the backend API (nodejs, elasticsearch, neo4j) with new functionality. I have also been maintaining the frontend, porting an Angular 1.5 app to use redux in preparation for a rebuild in React. Repairing broken tests, adding pre-commit hooks, and test coverage reporting. More interestingly I have been taking the cypher queries and python code created by the data scientists on our team and rendering their algorithms in javascript ready for production.
+I am currently a javascript developer in the Home Office. Working on an internal tool providing search capability and visualization over a large dataset (2.5 billion nodes, 3 billion edges). I have been working as full stack developer extending the backend API (nodejs, elasticsearch, neo4j) with new functionality. I have also been maintaining the frontend, porting an Angular 1.5 app to React. I have been repairing broken tests, adding pre-commit hooks, and test coverage reporting. More interestingly I have been taking the cypher queries and python code created by the data scientists on our team and rendering their algorithms in javascript ready for production.
 
 **Winter 2018**
 
-I worked with the director of the Christian Muslim Forum to redesign and rebuild their website. [http://christianmuslimforum.net](http://christianmuslimforum.net). This was a freelance project and I choose to build it in Elm a new functional language that compiles down to javascript. The site has a WordPress backend with a GraphQl serving it's content to an Elm frontend. It includes a build step with server side rendering, and dynamic open graph tags which means within hours the site started to appear in highly ranked positions in Google searches, and page shared on social media have smart professionaly thumbnail images.
+I worked with the director of the Christian Muslim Forum to redesign and rebuild their website. [http://www.christianmuslimforum.org](http://christianmuslimforum.org). This was a freelance project and I choose to build it in Elm a new functional language that compiles down to javascript. The site has a WordPress backend with a GraphQl serving it's content to an Elm frontend. It includes a build step with server side rendering, and dynamic open graph tags which means within hours the site started to appear in highly ranked positions in Google searches, and page shared on social media have smart professionaly thumbnail images.
 
 **Autumn 2017**
 
-While waiting for security clearance to start work at the home office I created an online course [https://www.udemy.com/functional-programming-with-ramda](https://www.udemy.com/functional-programming-with-ramda/learn/v4/overview) introducing developers to functional programming concepts in javascript using the Ramda library. 69 students have paid for and completed my course so far. 
+While waiting for security clearance to start work at the home office I created an online course [https://www.udemy.com/functional-programming-with-ramda](https://www.udemy.com/functional-programming-with-ramda/learn/v4/overview) introducing developers to functional programming concepts in javascript using the Ramda library. 
 
 **2015 - 2017**
 
-I was the Junior Developer at [TABLEFLIP](https://tableflip.io) for 3 years working in a team of four delivering sites for startups, small businesses and individuals. All my code at TABLEFLIP was reviewed by the two senior developers who run the company, and I have been well schooled in good practice. We worked in an agile way with clients organising our work into 5 day sprints. Below are a list of sites that I made significant contributions to.
+I was the Junior Developer at [TABLEFLIP](https://tableflip.io) for 3 years working in a team of four delivering sites for startups, small businesses and individuals. All my code at TABLEFLIP was reviewed by the two senior developers who run the company, and I have been well schooled in good practice. We worked in an agile way with clients and organised our work with them into 5 day sprints. Below are a list of sites that I made significant contributions to.
 
 * http://rebelandslaughter.com/ 
 * https://www.sohiworld.com 
