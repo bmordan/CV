@@ -1,0 +1,34 @@
+a[href] {
+    color: rgb(110, 124, 162);
+}
+a[href]:after {
+    content: ""
+}
+body {
+    font-size: .5rem;
+    line-height: 1rem;
+    text-align: justify;
+}
+body p:first-child {
+    float: right;
+    padding-left: 2rem;
+    padding-right: 1rem;
+    width: 29%;
+}
+h1 {
+    font-size: 2.5rem;
+    color: rgb(54,59,76);
+}
+h2 {
+    font-size: 2rem;
+    font-style: italic;
+    color: rgb(110, 124, 162);
+}
+h3, h4 {
+    font-size: 1rem;
+    color: rgba(0,0,0,0.5);
+}
+img {
+    border: solid 6px rgb(110, 124, 162);
+    border-style: ridge;
+}
