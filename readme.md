@@ -5,17 +5,17 @@
 
 ## tl;dr
 
-I love to write code. I cut my teeth as a junior with 2 superb Senior Node.js engineers. I picked up lots of new technologies at the Home Office and over the last couple of years I have been developing and maintaining original software tools in my current role at Multiverse coaching young people to become software engineers.
+I love to write code. I cut my teeth as a junior with 2 superb Senior Node.js engineers. I picked up lots of new technologies at the Home Office and over the last couple of years I have been developing and maintaining original software tools in my current role at Multiverse coaching young people to become level 4 software engineers.
 
 ## Origin Story
 
 **Feb 2019 - now Multiverse**
 
-Software Engineering Coach at WhiteHat. I have been designing and developing the curriculum for the level 4 software engineering apprenticeship. I am responsible for cohorts of 18 - 24 year olds undertaking a Level 4 apprenticeship. During the 18 month apprenticeship I deliver 3 months of tuition, set monthly assignments, review and coach apprentices to create a portfolio proving a set of technical competencies set by BCS (The Chartered Institute for IT). I conduct regular progress reviews with line managers and see apprentices through two exams.
+Software Engineering Coach at WhiteHat. I have been designing and developing the curriculum for the level 4 software engineering apprenticeship. I am responsible for cohorts of 18 - 24 year olds undertaking a Level 4 apprenticeship. During the 18 month apprenticeship I deliver 3 months of tuition, set monthly assignments, review and coach apprentices to create a portfolio proving a set of technical competencies set by IFATE (Institute for Apprenticeships and Technical Education). I conduct regular progress reviews with line managers from Facebook, Sky, Unilever and many more companies.
 
 **Feb 2018 - Feb 2019 Home Office** 
 
-I was a Senior Node.js developer in the Home Office. I Worked on an internal tool providing search capability and visualisation over a large dataset (2.5 billion nodes, 3 billion edges). As a full stack developer I extending the backend API (nodejs, elasticsearch, neo4j) with new functionality. I maintaining the frontend, porting an Angular 1.5 app to React. I delivered new features, repairing broken tests (added pre-commit hooks for tests, and test coverage reporting). I worked with Kubernetes and created a ETL (extract transform and load) pod that automated the ingestion of data into our datastores. Most interest task was taking the cypher queries and python code created by the data scientists on our team and rendering their algorithms in javascript ready for production into an AWS Kubernetes cluster. 
+I was a Senior Node.js developer in the Home Office. I worked on an internal tool providing search capability and visualisation over a large dataset (2.5 billion nodes, 3 billion edges). As a full stack developer I extending the backend API (nodejs, elasticsearch, neo4j) with new functionality. I maintaining the frontend, porting an Angular 1.5 app to React. I delivered new features, repairing broken tests (added pre-commit hooks for tests, and test coverage reporting). I worked with Kubernetes and created a ETL (extract transform and load) pod that automated the ingestion of data into our datastores. Most interest task was taking the cypher queries and python code created by the data scientists on our team and rendering their algorithms in javascript ready for production into an AWS Kubernetes cluster. 
 
 **Autumn 2017 Freelance**
 
