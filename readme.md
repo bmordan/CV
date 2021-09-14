@@ -11,7 +11,7 @@ I love to write code. I cut my teeth as a junior with 2 superb Senior Node.js en
 
 **Feb 2019 - now Multiverse**
 
-Software Engineering Coach at WhiteHat. I have been designing and developing the curriculum for the level 4 software engineering apprenticeship. I am responsible for cohorts of 18 - 24 year olds undertaking a Level 4 apprenticeship. During the 18 month apprenticeship I deliver 3 months of tuition, set monthly assignments, review and coach apprentices to create a portfolio proving a set of technical competencies set by IFATE (Institute for Apprenticeships and Technical Education). I conduct regular progress reviews with line managers from Facebook, Sky, Unilever and many more companies.
+Software Engineering Coach at [Multiverse](https://www.multiverse.io/en-GB/programmes/software-engineering). I have been designing and developing the curriculum for the level 4 software engineering apprenticeship from scratch. I am responsible for cohorts of 18 - 24 year olds undertaking a Level 4 apprenticeship. During the 18 month apprenticeship I deliver 3 months of tuition on full stack web development and all the stages of the software development lifecycle. I set monthly assignments, review and coach apprentices to create a portfolio proving evidence of a set of technical competencies set by [IFATE](https://www.instituteforapprenticeships.org/apprenticeship-standards/software-developer-v1-1) (Institute for Apprenticeships and Technical Education). I conduct regular progress reviews with line managers and their apprentices at Facebook, Sky, Unilever and many more companies.
 
 **Feb 2018 - Feb 2019 Home Office** 
 
@@ -19,11 +19,11 @@ I was a Senior Node.js developer in the Home Office. I worked on an internal too
 
 **Autumn 2017 Freelance**
 
-While waiting for security clearance to start work at the home office I created an online course [https://www.udemy.com/functional-programming-with-ramda](https://www.udemy.com/functional-programming-with-ramda/learn/v4/overview) introducing developers to functional programming concepts in javascript using the Ramda library. This is still earning me money today! I worked with the director of the Christian Muslim Forum to redesign and rebuild their website. [http://www.christianmuslimforum.org](http://christianmuslimforum.org). The Wordpress back-end is served to the Javascript frontend via a GraphQL endpoint.
+While waiting for security clearance to start work at the home office I created an online course [https://www.udemy.com/functional-programming-with-ramda](https://www.udemy.com/functional-programming-with-ramda/learn/v4/overview) introducing developers to functional programming concepts in javascript using the Ramda library. This is still earning me money today! I worked with the director of the Christian Muslim Forum to redesign and rebuild their website. [https://www.christianmuslimforum.org](https://christianmuslimforum.org). The Wordpress back-end is served to the Javascript frontend via a GraphQL endpoint.
 
 **2015 - 2017 TABLEFLIP**
 
-I joined [TABLEFLIP](https://tableflip.io) as a Junior Developer and working in a team of four developers delivering sites for startups, small businesses and individuals. All my code at TABLEFLIP was reviewed by the two senior developers who ran the company. I have been well schooled in good practice. We worked in an agile way with clients and I was responsible for working with them and organising our work with them into 5 day sprints.
+I joined [TABLEFLIP](https://tableflip.io) as a Junior Developer and working in a team of four developers delivering software projects for startups, small businesses and individuals. We ran alot of [Meteor](https://meteor.com) projects, and hosted the by monthly Meteor meetups in London. All my code at TABLEFLIP was reviewed by the two senior developers who ran the company [Alan Shaw](https://github.com/alanshaw) and [Oli Evans](https://github.com/olizilla). I have been well schooled in good practice. We worked in an agile way with clients and I was responsible for working directly with them to organising their projects into 5 day sprints.
 
 **Autumn 2014 Makers Academy**
 
