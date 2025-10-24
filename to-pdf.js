@@ -12,5 +12,5 @@ const fs = require('fs')
         cssPath: path.join(__dirname, 'cv.css')
     }
     const readme = fs.readFileSync(path.join(__dirname, 'readme.md'))
-    markdownpdf(options).from.string(readme).to(path.join(__dirname, 'readme.pdf'), process.exit)
+    markdownpdf(options).from.string(readme).to(path.join(__dirname, 'bernard_mordan_cv.pdf'), process.exit)
 })()
